@@ -1,0 +1,17 @@
+[
+    {
+      "id": 0,
+      "url": "require('../assets/img/2.webp')",
+      "title": "2022年2048积分最高奖章",
+      "price": 120,
+      "collectcount": 1
+
+    },
+    {
+      "id": 1,
+      "url": "require('@/assets/img/4.webp')",
+      "title": "2022年2048积分前十奖章",
+      "price": 120,
+      "collectcount": 1
+    }
+  ]
