@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "baseUrl": "/",
+    "baseUrl": "/2048",
     "moduleResolution": "node",
     "paths": {
       "@/*": [
