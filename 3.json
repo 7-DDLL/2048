@@ -1,0 +1,87 @@
+{
+    "list": [
+        {
+          "id": 0,
+          "url": "../../../static/img/2.webp",
+          "title": "2022年2048积分最高奖章",
+          "price": 120,
+          "collectcount": 1
+    
+        },
+        {
+          "id": 1,
+          "url": "../../../static/img/4.webp../../../static",
+          "title": "2022年2048积分前十奖章",
+          "price": 120,
+          "collectcount": 1
+        },
+        {
+            "id": 2,
+            "url": "../../../static/img/6.webp",
+            "title": "2022年2048参与奖",
+            "price": 180,
+            "collectcount": 1
+        },
+        {
+            "id": 3,
+            "url": "../../../static/img/5.webp",
+            "title": "2048耳环",
+            "price": 69,
+            "collectcount": 1
+        },
+        {
+            "id": 4,
+            "url": "../../../static/img/3.webp",
+            "title": "2048八角帽",
+            "price": 69,
+            "collectcount": 1
+        },
+        {
+            "id": 5,
+            "url": "../../../static/img/2.webp",
+            "title": "2048福袋",
+            "price": 99,
+            "collectcount": 1
+        },
+        {
+            "id": 6,
+            "url": "../../../static/img/3.webp",
+            "title": "100积分",
+            "price": 10,
+            "collectcount": 1
+        },
+        {
+            "id": 7,
+            "url": "../../../static/img/4.webp",
+            "title": "500积分",
+            "price": 49,
+            "collectcount": 1
+        },
+        {
+            "id": 8,
+            "url": "../../../static/img/2.webp",
+            "title": "1000积分",
+            "price": 98,
+            "collectcount": 1
+        }
+      ],
+      "car" :[
+        {
+          "id": 0,
+          "url": "require('../assets/img/2.webp')",
+          "title": "2022年2048积分最高奖章",
+          "price": 120,
+          "collectcount": 1
+    
+        },
+        {
+          "id": 1,
+          "url": "../../../static/img/4.webp')",
+          "title": "2022年2048积分前十奖章",
+          "price": 120,
+          "collectcount": 1
+        }
+      ]
+    
+    
+}
